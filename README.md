@@ -1,10 +1,10 @@
 # 🎓 University Ranking Analysis Dashboard
 
-This project provides a dynamic and interactive **Power BI dashboard** to explore and analyze global university rankings over time. It is designed to help users understand how universities perform based on different ranking systems, criteria, and across countries.
+This project provides a dynamic and interactive **Power BI dashboard** to explore and analyze global university rankings over time. It helps users understand how universities perform across different ranking systems, criteria, and countries.
 
 ## 📌 Project Overview
 
-The goal of this project is to analyze various university ranking datasets and visualize trends in university performance. The dashboard reveals valuable insights into academic strength, research impact, international diversity, and institutional growth.
+The goal of this project is to analyze various university ranking datasets and visualize trends in university performance. The dashboard delivers insights into academic strength, research impact, international diversity, and institutional growth.
 
 ## 📁 Datasets Used
 
@@ -19,16 +19,17 @@ The project uses multiple datasets in CSV format:
 
 ## 🛠 Tools & Technologies
 
-- **Power BI** – for building the interactive dashboard
-- **Microsoft Excel** – for data cleaning and transformation
+- **Power BI** – for building interactive dashboards
+- **Power Query** – for data transformation and modeling
+- **DAX (Data Analysis Expressions)** – for creating calculated columns and measures
 - **CSV files** – as primary data sources
 
 ## 📊 Key Features
 
 - View university rankings by year, country, and ranking system
 - Explore performance based on criteria such as teaching, research, citations, and international outlook
-- Compare how universities perform in different global ranking systems
-- Analyze country-wise academic progress over time
+- Compare how universities perform across different global ranking systems
+- Analyze country-wise academic progress and ranking trends over time
 
 ## ✅ How to Use
 
@@ -42,7 +43,7 @@ The project uses multiple datasets in CSV format:
 
 - Enabled better understanding of university performance patterns
 - Supported data-driven academic planning and decision-making
-- Improved visibility into ranking criteria and systems
+- Improved visibility into ranking criteria and comparative systems
 
 ## 📌 Screenshots
 
